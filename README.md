@@ -2,6 +2,12 @@
 
 **Autonomous AI-driven trading system for Polymarket — combining market data, mathematical models, and advanced language models (LLMs) for real-time prediction and execution.**
 
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="Polymarket AI Copy Trading & Prediction Bot." src="assets/AGENT.png" />
+  </a>
+</div>
+
 ---
 
 ## 🧠 Overview
