@@ -1,2 +1,3 @@
 # Project Update
 Correct transaction rollback on integrity constraint violation
+Stop memory leak in long-running API worker
